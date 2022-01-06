@@ -49,10 +49,19 @@ h1{
      padding-bottom: 20px;
      border-radius: 20px;
      display: inline;
-     background-color: #c9a676;
+     background-color: #c03d26;
 }
 .mission-card img{
      width: 35%;
+}
+.img-color1{
+     background-color: pink;
+}
+.img-color2{
+     background-color: skyblue;
+}
+.img-color3{
+     background-color: thistle;
 }
 /*develop section*/
 .develop-text-section{
@@ -77,12 +86,20 @@ h1{
 .Community-text-section p{
      margin: 0px 10px 20px 0px;
 }
+/*community section*/
+.personal-text-section{
+     margin: 50px 20px 0px 40px;
+}
+.personal-img-section img{
+     margin: 60px 0px 10px 30px;
+}
 /*footer section*/
 footer{
      text-align: center;
      color: white;
      background-color: black;
      padding: 10px 0px 10px 0px;
+     border-radius: 20px;
 }
 .fo-text-color{
      color: tomato;
